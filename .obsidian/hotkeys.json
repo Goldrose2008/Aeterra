@@ -113,7 +113,14 @@
       "key": ","
     }
   ],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
   "switcher:open": [],
   "app:go-back": [],
   "editor:toggle-bold": [],
