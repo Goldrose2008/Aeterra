@@ -1,0 +1,12 @@
+{
+  "accentColor": "#3e448e",
+  "cssTheme": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "HTMLblocks",
+    "Callouts",
+    "Style",
+    "dashboard"
+  ],
+  "baseFontSize": 14
+}

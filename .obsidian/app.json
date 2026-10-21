@@ -1,0 +1,26 @@
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "files",
+  "newFileLocation": "root",
+  "newFileFolderPath": "Все заметки",
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "foldIndent": false,
+  "userIgnoreFilters": [
+    "templates/",
+    "files/"
+  ],
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "strictLineBreaks": false,
+  "autoConvertHtml": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
