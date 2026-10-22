@@ -1,7 +1,7 @@
 ---
-title: "Aeterra — Concept Document"
-version: "1.1"
-status: "Рабочая концепция"
+title: Aeterra — Concept Document
+version: "1.0"
+status: Рабочая концепция
 created: 2026-10-21
 tags:
   - aeterra
