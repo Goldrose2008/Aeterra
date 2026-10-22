@@ -4,7 +4,7 @@ tags:
   - TFL_devlog
   - НЕОПУБЛИКОВАНО
 ---
-[[🏚️Домой]] → [[👨‍👩‍👧Этерра. Первый Урок (Aeterra. The First Lesson) - DevLog]] 
+[[🏚️Домой]] → [[👨‍👩‍👧Этерра. Первый Урок (Aetherra. The First Lesson) - DevLog]] 
 
 **Этерра - Черновик Творца**
 
@@ -28,4 +28,4 @@ tags:
 🍃 на YouTube https://www.youtube.com/@Goldrose2008
 
 #TFL_devlog
-#Aeterra #AeterraTheFirstLesson #Gamedev #UE5 #IndieDev #ZodchiyGame 
+#Aetherra #AetherraTheFirstLesson #Gamedev #UE5 #IndieDev #ZodchiyGame 
